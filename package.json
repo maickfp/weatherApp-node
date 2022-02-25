@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "0.0.1",
+  "description": "Search weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "nodeJS",
+    "api-comsume"
+  ],
+  "author": "Michael Fernandez Perez",
+  "license": "ISC"
+}
