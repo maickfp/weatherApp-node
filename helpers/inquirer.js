@@ -34,8 +34,9 @@ const mainUserMenu = {
     message: '¿Qué desea hacer?',
     loop: false,
     choices: [
-        { value: '1', name: `${'1.'.menuOptionNum} Crear tarea` },
-        { value: '0', name: `${'0.'.menuOptionNum} Salir` }
+        { value: 1, name: `${'1.'.menuOptionNum} Buscar ciudad` },
+        { value: 2, name: `${'2.'.menuOptionNum} Historia de búsqueda` },
+        { value: 0, name: `${'0.'.menuOptionNum} Salir` }
     ]
 };
 
